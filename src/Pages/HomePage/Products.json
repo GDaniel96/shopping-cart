@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Wu-Tang Clan – Enter The Wu-Tang (36 Chambers)",
+        "price": 9.95,
+        "image": "https://i.discogs.com/JVtYto3PpCrhttx7V3aR09GKcOlPw4SE8RYrdxaWPTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/OS0xMTg1MTM0MTM1/LmpwZWc.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 2,
+        "title": "Talking Heads – Remain In Light",
+        "price": 19.95,
+        "image": "https://i.discogs.com/rHJU3UXR0FAkeUkU4vZpdpF3XwsLoJeitBnQVCxjRQQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 3,
+        "title": "Daft Punk – Random Access Memories",
+        "price": 5.05,
+        "image": "https://i.discogs.com/zFVZE4s0zSXUIM7OMl2UDckSq0zlopdHBHRz23zqMJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 4,
+        "title": "Henry Jacobs – Radio Programme No.1: Henry Jacobs' \"Music & Folklore\"",
+        "price": 20.91,
+        "image": "https://i.discogs.com/S_agLdOmglEuG_xvO8NdfRXSzx9E_GevBQERa0cCJi0/rs:fit/g:sm/q:90/h:382/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTc1/My0xMTk2NjYzOTI2/LmpwZWc.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 5,
+        "title": "Nas – Illmatic",
+        "price": 25.55,
+        "image": "https://i.discogs.com/ZIL05hcZo0Rkz8qMahZSNscLc_uRi5m1Hyiys_SDTtg/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjYw/NC0xMTc3MDE5MjI4/LmpwZWc.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 6,
+        "title": "Errortica – Safely Stowed",
+        "price": 15.35,
+        "image": "https://i.discogs.com/Hoi764W-JBgTsyEU1jIiqUiG81KveRXVFzLGbyoSdWM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTgzLTE2MDA5NDQw/ODgtNDY1Ni5qcGVn.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 7,
+        "title": "Various – Five Years Of Love - Part 3",
+        "price": 15.15,
+        "image": "https://i.discogs.com/oOwshFV-E1QJuD3fS7-AYKRDfJU25ieN57oye1TTOAY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg2/ODUyLTE2MzA1OTE5/NzctMjEyMi5qcGVn.jpeg",
+        "pieces": 0
+    },
+    {
+        "id": 8,
+        "title": "Various – Les Yeux Orange Presents : Driving Blind (Vol.1)",
+        "price": 10.95,
+        "image": "https://i.discogs.com/VjaxyFIiYvINMDmxIjGDH7srpl6hx2-dPmDH7iWDb4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMx/ODUzLTE2MDA0Mzc1/MTItODgzMS5wbmc.jpeg",
+        "pieces": 0
+    }
+]

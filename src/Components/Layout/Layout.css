@@ -1,0 +1,17 @@
+header{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+header h1{
+    align-self: center;
+}
+
+ul{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content:center;
+    gap:20px;
+    }
